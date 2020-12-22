@@ -7,6 +7,18 @@
     {
       "name": "mainability_description",
       "value": "Java_Phone_Empty Feature Ability"
+    },
+    {
+      "name": "jsability_description",
+      "value": "JS_Phone_Empty Feature Ability"
+    },
+    {
+      "name": "main_ability_title",
+      "value": "Hos鸿蒙各个部件用法"
+    },
+    {
+      "name": "toastdialogability_description",
+      "value": "Java_Phone_Empty Feature Ability"
     }
   ]
 }
