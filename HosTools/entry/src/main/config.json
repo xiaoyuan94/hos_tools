@@ -45,33 +45,13 @@
         "launchType": "standard"
       },
       {
-        "name": "com.xxyuan.hostools.ui.js.JSAbility",
-        "icon": "$media:icon",
-        "description": "$string:jsability_description",
-        "label": "entry",
-        "type": "page",
-        "launchType": "standard"
-      },
-      {
         "orientation": "unspecified",
-        "name": "com.xxyuan.hostools.ui.toast.ToastDialogAbility",
+        "name": "com.xxyuan.hostools.ui.cplus.CPlusAbility",
         "icon": "$media:icon",
-        "description": "$string:toastdialogability_description",
+        "description": "$string:cplusability_description",
         "label": "entry",
         "type": "page",
         "launchType": "standard"
-      }
-    ],
-    "js": [
-      {
-        "pages": [
-          "pages/index/index"
-        ],
-        "name": "JSAbility",
-        "window": {
-          "designWidth": 720,
-          "autoDesignWidth": false
-        }
       }
     ]
   }
